@@ -1,10 +1,35 @@
 featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+  - title: "mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment"
+    authors: "Qiming Cao, Hongfei Xue, Tianci Liu, Xingchen Wang, Haoyu Wang, Xincheng Zhang, Lu Su"
+    year: SenSys24
+    conference: "The 22nd ACM Conference on Embedded Networked Sensor System"
 
-index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+  - title: "Towards Efficient Heterogeneous Multi-Modal Federated Learning with Hierarchical Knowledge Disentanglement"
+    authors: "Xingchen Wang, Haoyu Wang, Feijie Wu, Tianci Liu, Qiming Cao, Lu Su"
+    year: SenSys24
+    conference: "The 22nd ACM Conference on Embedded Networked Sensor System"
+
+  - title: "Towards Smartphone-based 3D Hand Pose Reconstruction Using Acoustic Signals."
+    authors: "Shiyang Wang, Xingchen Wang, Wenjun Jiang, Chenglin Miao, Qiming Cao, Haoyu Wang, Ke Sun, Hongfei Xue, Lu Su"
+    year: TOSN24
+    conference: "ACM Transactions on Sensor Networks"
+
+  - title: "Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation"
+    authors: "Hongfei Xue, Qiming Cao, Chenglin Miao, Yan Ju, Haochen Hu, Aidong Zhang, Lu Su"
+    year: MobiCom23
+    conference: "The 29th Annual International Conference On Mobile Computing And Networking "
+
+  - title: "M4esh: mmWave-based 3D Human Mesh Construction for Multiple Subjects"
+    authors: "Hongfei Xue*, Qiming Cao*, Yan Ju, Haochen Hu, Haoyu Wang, Aidong Zhang, Lu Su "
+    year: SenSys22
+    conference: "The 20nd ACM Conference on Embedded Networked Sensor System"
+
+  - title: "Active Crowd Analysis for Pandemic Risk Mitigation for Blind or Visually Impaired Persons"
+    authors: "Samridha Shrestha, Daohan Lu, Hanlin Tian, Qiming Cao, Julie Liu, John-Ross Rizzo, William H. Seiple, Maurizio Porfiri, Yi Fang "
+    year: ECCVW20
+    conference: "European Conference on Computer Vision Workshop"
+
+  - title: "Towards 3D Perception and Closed-Loop Control for 3D Construction Printing"
+    authors: "Xuchu Xu, Ruoyu Wang, Qiming Cao, Chen Feng"
+    year: ISARC20
+    conference: "International Symposium on Automation and Robotics in Construction"

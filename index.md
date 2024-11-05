@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I am a PhD student in the Department of Electrical and Computer Engineering at Purdue University, advised by Professor Lu Su. I earned my Master’s degree in Computer Science from New York University and my Bachelor’s degree in Software Engineering from Dalian University of Technology. My research primarily focuses on wireless sensing and computer vision. Currently, I am working on enhancing the generalizability of deep learning models for wireless sensing data.
