@@ -9,7 +9,7 @@ featured:
     year: SenSys24
     conference: "The 22nd ACM Conference on Embedded Networked Sensor System"
 
-  - title: "Towards Smartphone-based 3D Hand Pose Reconstruction Using Acoustic Signals."
+  - title: "Towards Smartphone-based 3D Hand Pose Reconstruction Using Acoustic Signals"
     authors: "Shiyang Wang, Xingchen Wang, Wenjun Jiang, Chenglin Miao, Qiming Cao, Haoyu Wang, Ke Sun, Hongfei Xue, Lu Su"
     year: TOSN24
     conference: "ACM Transactions on Sensor Networks"
@@ -17,15 +17,15 @@ featured:
   - title: "Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation"
     authors: "Hongfei Xue, Qiming Cao, Chenglin Miao, Yan Ju, Haochen Hu, Aidong Zhang, Lu Su"
     year: MobiCom23
-    conference: "The 29th Annual International Conference On Mobile Computing And Networking "
+    conference: "The 29th Annual International Conference On Mobile Computing And Networking"
 
   - title: "M4esh: mmWave-based 3D Human Mesh Construction for Multiple Subjects"
-    authors: "Hongfei Xue*, Qiming Cao*, Yan Ju, Haochen Hu, Haoyu Wang, Aidong Zhang, Lu Su "
+    authors: "Hongfei Xue*, Qiming Cao*, Yan Ju, Haochen Hu, Haoyu Wang, Aidong Zhang, Lu Su"
     year: SenSys22
     conference: "The 20nd ACM Conference on Embedded Networked Sensor System"
 
   - title: "Active Crowd Analysis for Pandemic Risk Mitigation for Blind or Visually Impaired Persons"
-    authors: "Samridha Shrestha, Daohan Lu, Hanlin Tian, Qiming Cao, Julie Liu, John-Ross Rizzo, William H. Seiple, Maurizio Porfiri, Yi Fang "
+    authors: "Samridha Shrestha, Daohan Lu, Hanlin Tian, Qiming Cao, Julie Liu, John-Ross Rizzo, William H. Seiple, Maurizio Porfiri, Yi Fang"
     year: ECCVW20
     conference: "European Conference on Computer Vision Workshop"
 
