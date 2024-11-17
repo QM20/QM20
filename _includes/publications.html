@@ -8,7 +8,7 @@
         {% for pub in site.data.publications.featured %}
           <li class="publication-entry">
             <strong>{{ pub.title }}</strong><br>
-            {{ pub.authors | replace: "Qiming Cao*", "<strong>Qiming Cao<em>*</em></strong>" | replace: "Qiming Cao", "<strong>Qiming Cao</strong>" }}<br>
+            {{ pub.authors | replace: "Qiming Cao*", "<strong>Qiming Cao*</strong>" | replace: "Qiming Cao", "<strong>Qiming Cao</strong>" }}<br>
             <em>{{ pub.conference }}</em>, <strong>{{ pub.year }}</strong><p>
           </li>
         {% endfor %}
