@@ -1,4 +1,16 @@
 featured:
+  - title: "RAM-Hand: Robust Acoustic Multi-Hand Pose Reconstruction Using a Microphone Array"
+    authors: "Shiyang Wang, Henglin Pu, Qiming Cao, and Wenjun Jiang, Xingchen Wang, Tianci Liu, Zhengxin Jiang, Hongfei Xue, Lu Su"
+    year: Sensys25
+    conference: "The 23nd ACM Conference on Embedded Networked Sensor System"
+    award: "<span style='color: red;'>🏆 Best Paper Award</span>"
+
+  - title: "Towards Robust mmWave-based Human Activity Recognition using Large Simulated Dataset for Model Pretraining"
+    authors: "Vinay Joshi (Undergraduate Student), Shengkai Xu, Qiming Cao, Yi Zhu, Pu Wang, Hongfei Xue"
+    year: BigData24
+    conference: "2024 IEEE International Conference on Big Data"
+    award: "<span style='color: red;'>🏆 Best Undergraduate Paper Award</span>"
+
   - title: "mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment"
     authors: "Qiming Cao, Hongfei Xue, Tianci Liu, Xingchen Wang, Haoyu Wang, Xincheng Zhang, Lu Su"
     year: SenSys24
