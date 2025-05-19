@@ -1,6 +1,6 @@
 featured:
   - title: "RAM-Hand: Robust Acoustic Multi-Hand Pose Reconstruction Using a Microphone Array"
-    authors: "Shiyang Wang, Henglin Pu, Qiming Cao, and Wenjun Jiang, Xingchen Wang, Tianci Liu, Zhengxin Jiang, Hongfei Xue, Lu Su"
+    authors: "Shiyang Wang, Henglin Pu, Qiming Cao, Wenjun Jiang, Xingchen Wang, Tianci Liu, Zhengxin Jiang, Hongfei Xue, Lu Su"
     year: Sensys25
     conference: "The 23nd ACM Conference on Embedded Networked Sensor System"
     award: "<span style='color: red;'>🏆 Best Paper Award</span>"
